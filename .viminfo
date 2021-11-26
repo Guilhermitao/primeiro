@@ -1,0 +1,371 @@
+# Este arquivo viminfo foi gerado pelo Vim 8.2.
+# Voc锚 pode edit谩-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 脷ltimo padr茫o de busca :
+~MSle0~/oioi
+
+# Hist贸rico de linha de comando (mais recente primeiro):
+:q
+|2,0,1637949347,,"q"
+:w
+|2,0,1637344169,,"w"
+:w programa1.c
+|2,0,1636738521,,"w programa1.c"
+:w programa.c
+|2,0,1636738486,,"w programa.c"
+:wq
+|2,0,1635532358,,"wq"
+:set nu
+|2,0,1635532319,,"set nu"
+:help
+|2,0,1635530978,,"help"
+:/oioi
+|2,0,1635530758,,"/oioi"
+:q!
+|2,0,1635530286,,"q!"
+:set
+|2,0,1635530013,,"set"
+
+# Hist贸rico de express玫es de busca (mais recente primeiro):
+? oioi
+|2,1,1635530758,,"oioi"
+
+# Hist贸rico de express玫es (mais recente primeiro):
+
+# Hist贸rico de linha de entrada (mais recente primeiro):
+
+# Hist贸rico de linha de debug (mais recente primeiro):
+
+# Registradores:
+""1	BLOCK	14
+	
+	bom dia mundo
+	boa tarde mundo
+|3,1,1,2,3,14,1636737849,"","bom dia mundo","boa tarde mundo"
+"2	LINE	0
+	bom dia mundo
+	boa tarde mundo
+|3,0,2,1,2,0,1635530219,"bom dia mundo","boa tarde mundo"
+"3	LINE	0
+	guilherme leandro gomes oliveira
+|3,0,3,1,1,0,1635530138,"guilherme leandro gomes oliveira"
+"p	CHAR	0
+	
+|3,0,25,0,1,0,1636737798,""
+"q	CHAR	0
+	�kr
+|3,0,26,0,1,0,1636737776,"�kr"
+
+# Marcas nos arquivos:
+'0  1  0  ~/.git/config
+|4,48,1,0,1637949347,"~/.git/config"
+'1  14  25  ~/guilherme.c
+|4,49,14,25,1637345515,"~/guilherme.c"
+'2  14  25  ~/guilherme.c
+|4,50,14,25,1637344173,"~/guilherme.c"
+'3  3  0  ~/guilherme.c
+|4,51,3,0,1637344069,"~/guilherme.c"
+'4  3  0  ~/guilherme.c
+|4,52,3,0,1637344069,"~/guilherme.c"
+'5  3  0  ~/guilherme.c
+|4,53,3,0,1637344069,"~/guilherme.c"
+'6  3  0  ~/guilherme.c
+|4,54,3,0,1637344069,"~/guilherme.c"
+'7  16  6  ~/guilherme.c
+|4,55,16,6,1637343941,"~/guilherme.c"
+'8  16  6  ~/guilherme.c
+|4,56,16,6,1637343941,"~/guilherme.c"
+'9  14  6  ~/guilherme.c
+|4,57,14,6,1637343941,"~/guilherme.c"
+
+# Lista de saltos (mais recente primeiro):
+-'  1  0  ~/.git/config
+|4,39,1,0,1637949347,"~/.git/config"
+-'  14  25  ~/guilherme.c
+|4,39,14,25,1637345515,"~/guilherme.c"
+-'  14  25  ~/guilherme.c
+|4,39,14,25,1637345515,"~/guilherme.c"
+-'  14  25  ~/guilherme.c
+|4,39,14,25,1637344173,"~/guilherme.c"
+-'  14  25  ~/guilherme.c
+|4,39,14,25,1637344173,"~/guilherme.c"
+-'  3  0  ~/guilherme.c
+|4,39,3,0,1637344132,"~/guilherme.c"
+-'  3  0  ~/guilherme.c
+|4,39,3,0,1637344132,"~/guilherme.c"
+-'  3  0  ~/guilherme.c
+|4,39,3,0,1637344132,"~/guilherme.c"
+-'  3  0  ~/guilherme.c
+|4,39,3,0,1637344132,"~/guilherme.c"
+-'  3  0  ~/guilherme.c
+|4,39,3,0,1637344069,"~/guilherme.c"
+-'  3  0  ~/guilherme.c
+|4,39,3,0,1637344069,"~/guilherme.c"
+-'  16  6  ~/guilherme.c
+|4,39,16,6,1637343999,"~/guilherme.c"
+-'  16  6  ~/guilherme.c
+|4,39,16,6,1637343999,"~/guilherme.c"
+-'  16  6  ~/guilherme.c
+|4,39,16,6,1637343999,"~/guilherme.c"
+-'  16  6  ~/guilherme.c
+|4,39,16,6,1637343999,"~/guilherme.c"
+-'  16  6  ~/guilherme.c
+|4,39,16,6,1637343999,"~/guilherme.c"
+-'  16  6  ~/guilherme.c
+|4,39,16,6,1637343999,"~/guilherme.c"
+-'  14  6  ~/guilherme.c
+|4,39,14,6,1637343941,"~/guilherme.c"
+-'  14  6  ~/guilherme.c
+|4,39,14,6,1637343941,"~/guilherme.c"
+-'  14  6  ~/guilherme.c
+|4,39,14,6,1637343918,"~/guilherme.c"
+-'  14  6  ~/guilherme.c
+|4,39,14,6,1637343918,"~/guilherme.c"
+-'  14  7  ~/guilherme.c
+|4,39,14,7,1637343820,"~/guilherme.c"
+-'  14  7  ~/guilherme.c
+|4,39,14,7,1637343820,"~/guilherme.c"
+-'  15  1  ~/guilherme.c
+|4,39,15,1,1637343646,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343646,"~/guilherme.c"
+-'  15  1  ~/guilherme.c
+|4,39,15,1,1637343646,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343646,"~/guilherme.c"
+-'  15  1  ~/guilherme.c
+|4,39,15,1,1637343646,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343646,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343646,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343646,"~/guilherme.c"
+-'  15  1  ~/guilherme.c
+|4,39,15,1,1637343646,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343646,"~/guilherme.c"
+-'  15  1  ~/guilherme.c
+|4,39,15,1,1637343646,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343646,"~/guilherme.c"
+-'  15  1  ~/guilherme.c
+|4,39,15,1,1637343646,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343646,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343646,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343646,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343497,"~/guilherme.c"
+-'  13  1  ~/guilherme.c
+|4,39,13,1,1637343497,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  1  0  ~/guilherme.c
+|4,39,1,0,1637343204,"~/guilherme.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+-'  11  0  ~/programa1.c
+|4,39,11,0,1636741004,"~/programa1.c"
+
+# Hist贸rico de marcas nos arquivos (mais recente primeiro):
+
+> ~/.git/config
+	*	1637949311	0
+	"	1	0
+
+> ~/guilherme.c
+	*	1637345513	0
+	"	14	25
+	^	14	26
+	.	10	25
+	+	5	33
+	+	6	17
+	+	8	9
+	+	15	2
+	+	16	7
+	+	1	18
+	+	2	18
+	+	10	25
+
+> ~/programa1.c
+	*	1636741002	0
+	"	11	0
+	^	11	0
+	.	8	12
+	+	2	0
+	+	1	0
+	+	3	17
+	+	10	0
+	+	9	6
+	+	11	0
+	+	6	19
+	+	8	14
+	+	9	8
+	+	4	18
+	+	6	0
+	+	8	0
+	+	6	0
+	+	7	0
+	+	6	13
+	+	11	0
+	+	6	15
+	+	8	13
+	+	6	13
+	+	8	12
+
+> ~/programa.c
+	*	1636740043	0
+	"	9	0
+	^	9	0
+	.	8	0
+	+	1	17
+	+	3	13
+	+	4	0
+	+	5	23
+	+	6	20
+	+	7	10
+	+	10	1
+	+	5	24
+	+	6	20
+	+	9	0
+	+	4	1
+	+	8	0
+
+> ~/prog
+	*	1635532369	0
+	"	1	0
+
+> ~/guilherme
+	*	1635532354	0
+	"	11	6
+	^	11	7
+	.	11	6
+	+	7	5
+	+	1	0
+	+	11	6
+
+> /usr/share/vim/vim82/doc/help.txt
+	*	1635531101	0
+	"	1	0
